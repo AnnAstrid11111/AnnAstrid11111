@@ -4,13 +4,9 @@
 Hi 👋, I'm Ann Lyster Mateos
 </h1>
 
-<h3 align="center">
 
-[![Typing SVG]([https://readme-typing-svg.herokuapp.com](https://github.com/AnnAstrid11111/AnnAstrid11111/blob/main/bg.png?raw=true)?font=Fira+Code&pause=1000&color=727E8A&width=790&lines=A+passionate+full+stack+developer+from+Sorsogon+City%2C+Philippines.;There+is+no+place+like+127.0.0.1;Real+Programmers+always+count+from+0.)](https://git.io/typing-svg)
 
-</h3>
-
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="Coding" width="400" src="https://github.com/AnnAstrid11111/AnnAstrid11111/blob/main/bg.png?raw=true">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kennethsolomon&label=Profile%20views&color=0e75b6&style=flat" alt="kennethsolomon" /></p>
 
