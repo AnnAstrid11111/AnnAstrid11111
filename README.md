@@ -17,11 +17,11 @@ Hi 👋, I'm Ann Lyster Mateos
 
 - 🌱 I’m currently learning **HTML & CSS**
 
-- 💬 Ask me about **BOYS LAHAT SILA MANLOLOKO HAHAHA **
+- 💬 Ask me about **EVERYTHING **
 
 - 📫 How to reach me **contact@mateos.lyster@gmail.com**
 
-- ⚡ Fun fact **I love fat Guy**
+- ⚡ Fun fact **I LOVE TO PLAY GAMES TOO**
 
 ## 🤝 Connect with me:
 <p align="left">
